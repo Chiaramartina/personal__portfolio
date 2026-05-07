@@ -1,6 +1,6 @@
 # Projects Portfolio
 
-A selection of projects focused on Machine Learning, NLP, Digital Humanities, Knowledge Representation, and Cultural Heritage technologies.
+A selection of projects focused on Machine Learning, NLP, Digital Humanities, Knowledge Representation and Cultural Heritage technologies.
 
 | Project | Area | Repository |
 |---|---|---|
